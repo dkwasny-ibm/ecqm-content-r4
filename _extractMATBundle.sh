@@ -2,7 +2,8 @@
 #DO NOT EDIT WITH WINDOWS
 tooling_jar=tooling-1.3.1-SNAPSHOT-jar-with-dependencies.jar
 input_cache_path=./input-cache
-mat_bundle=/Users/mholck/Development/ecqm-content-r4/bundles/mat/EXM506_v6_02_Artifacts/measure-json-bundle.json
+#mat_bundle=/Users/mholck/Development/ecqm-content-r4/bundles/mat/EXM506_v6_02_Artifacts/measure-json-bundle.json
+mat_bundle="$1";
 
 set -e
 
