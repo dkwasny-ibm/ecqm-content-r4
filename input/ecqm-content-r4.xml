@@ -137,5 +137,9 @@
            <code value="excludemap"/>
            <value value="true"/>
          </parameter>-->
+        <parameter>
+          <code value="logging" />
+          <value value="progress" />
+        </parameter>
     </definition>
 </ImplementationGuide>
